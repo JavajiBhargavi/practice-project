@@ -1,0 +1,245 @@
+.back{
+    background-color: rgb(248, 248, 248);
+    padding-top: 1
+}
+.div{
+    display: flex;
+    width: 100%;
+    background-color: white;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+.heading{
+    margin-left: 30%;
+}
+.flip{
+    color: blue;
+    font-size: xx-large;
+    font-style: italic;
+}
+.ex{
+    color: gainsboro;
+    font-size: small;
+}
+.plus{
+    color: orange;
+}
+.div1{
+    margin-left: 10%;
+    width: 100%;
+    margin-top: 2%;
+}
+.div1 input{
+    background-color: rgb(230, 230, 230);
+    padding-right: 150%;
+    padding-left: 5%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    border-style: none;
+    font-size: large;
+    border-radius: 10px;
+}
+.div2{
+    margin-left: 35%;
+    display: flex;
+    margin-top: 2%;
+}
+.div2 img{
+    width: 30px;
+    padding-top: 30%;
+}
+.div3{
+    display: flex;
+    margin-left: 2%;
+    margin-top: 2%;
+}
+.div3 img{
+    width: 30px;
+    padding-top: 20%;
+}
+
+.div4{
+    display: flex;
+    margin-left: 2%;
+    width:20%;
+    margin-top: 2%;
+}
+.div4 img{
+    width: 30px;
+    padding-top: 15%;
+}
+.div4 p{
+    padding-right: 120px;
+    width: 70%;
+}
+.div5{
+    background-color: white;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+.nav ul{
+    display: flex;
+}
+.nav li{
+    padding-left: 2%;
+    font-size: large;
+}
+.nav li,img{
+    width: 60%;
+}
+.pic img{
+    width: 100%;
+}
+.div6{
+    background-color: white;
+    margin-left: 2%;
+    margin-right: 2%;
+    padding-left: 2%;
+}
+.h2{
+    padding-top: 2%;
+}
+.div7{
+    display: flex;
+}
+.div7 img{
+    width: 90%;
+    height: 300px;
+    margin-left: 5%;
+}
+.div7 div{
+    margin-left: 5%;
+    border-style: ridge;
+    padding-top: 2%;
+}
+.sweat{
+    margin-left: 10%;
+    font-size: large;
+}
+.polo{
+    margin-left: 10%;
+    font-size: large;
+}
+.shirts{
+    margin-left: 20%;
+    font-size: large;
+}
+.van{
+    margin-left: 15%;
+    font-size: large;
+}
+.div7 b{
+    margin-left: 25%;
+    font-size: large;
+}
+.flex{
+    display: flex;
+    margin-top: 2%;
+}
+.dress{
+    border-style: ridge;
+    height: 380px;
+    margin-left: 5%;
+    padding-top: 2%;
+}
+.dress img{
+    width: 90%;
+    height: 300px;
+    margin-left: 5%;
+}
+.dress p{
+    margin-left: 20%;
+    font-size: large;
+}
+.dress b{
+    margin-left: 10%;
+    font-size: large;
+}
+.mast{
+    border-style: ridge;
+    height: 380px;
+    margin-left: 5%;
+    width: 19%;
+    padding-top: 2%;
+}
+.mast img{
+    width: 90%;
+    height: 300px;
+    margin-left: 5%;
+}
+.mast p{
+    margin-left: 17%;
+    font-size: large;
+}
+.mast b{
+    margin-left: 10%;
+    font-size: large;
+}
+.ruf{
+    border-style: ridge;
+    height: 380px;
+    margin-left: 5%;
+    padding-top: 2%;
+}
+.ruf img{
+    width: 90%;
+    height: 300px;
+    margin-left: 5%;
+}
+.ruf p{
+    margin-left: 7%;
+    font-size: large;
+   
+}
+.ruf b{
+    margin-left: 20%;
+    font-size: large;
+}
+.div8{
+    background-color: white;
+    margin-left: 2%;
+    margin-right: 2%;
+    display: flex;
+    margin-top: 2%;
+}
+.div8 img{
+    width: 98%;
+}
+.men{
+    display: flex;
+    margin-top: 2%;
+}
+.div9{
+    background-color: white;
+    margin-left: 2%;
+    margin-right: 2%;
+    padding-left: 2%;
+    padding-top: 5%;
+    padding-right: 2%;
+    width: 80%;
+}
+.winter{
+    display: flex;
+}
+.winter div{
+    margin-left: 2%;
+}
+.winter p{
+    margin-left: 25%;
+    font-size: large;
+}
+.winter b{
+    color: green;
+}
+
+.jacket img{
+    width:100% ;
+    height: 300px;
+}
+.src img{
+    width: 100%;
+    height: 800px;
+}
+.head{
+    margin-left: 2%;
+}

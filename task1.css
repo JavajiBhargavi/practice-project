@@ -1,0 +1,288 @@
+.css{
+    text-align: center;
+}
+.table{
+    text-align: center;
+    margin-left: 40%;
+    border: 1px gray solid;
+    font-size: large;
+}
+.table td{
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+.table tr{
+    padding-left: 5%;
+}
+.red{
+    color: red;
+}
+.border{
+    border: 1px black solid;
+}
+.d-red{
+    color: darkred;
+}
+.b-radius{
+    border-radius: 15px;
+}
+.blue{
+    color: blue;
+}
+.b-s-dotted{
+    border-style: dotted;
+}
+.d-blue{
+    color: darkblue;
+}
+.b-s-dashed{
+    border-style: dashed;
+}
+.skyblue{
+    color: skyblue;
+}
+.b-s-double{
+    border-style: double;
+}
+.l-blue{
+    color: lightblue;
+}
+.b-s-rigid{
+    border-style: ridge;
+}
+.l-skyblue{
+    color: lightskyblue;
+}
+.b-s-none{
+    border-style: none;
+}
+.pink{
+    color: pink;
+}
+.b-s-solid{
+    border-style: solid;
+}
+.d-pink{
+    color:rgb(250, 67, 97);
+}
+.b-top{
+    border-top: 2px red solid;
+}
+.l-pink{
+    color: lightpink;
+}
+.b-bottom{
+    border-bottom: 2px red solid;
+}
+.maroon{
+    color: maroon;
+}
+.b-left{
+    border-left:2px red solid ;
+}
+.violet{
+    color:violet ;
+}
+.b-right{
+    border-right: 2px red solid;
+}
+.d-violet{
+    color: darkviolet;
+}
+.b-t-l-radius{
+    border-top-left-radius: 15px;
+    border: 1px black solid;
+}
+.green{
+    color: green;
+}
+.b-t-r-radius{
+    border-top-right-radius: 15px;
+    border: 1px black solid;
+}
+.l-green{
+    color: lightgreen;
+}
+.b-b-l-radius{
+    border-bottom-left-radius: 15px;
+    border: 1px black solid;
+}
+.d-green{
+    color: darkgreen;
+}
+.b-b-r-radius{
+    border-bottom-right-radius: 15px;
+    border: 1px black solid;
+}
+.black{
+    color: black;
+}
+.b-color{
+    border-color: blue;
+    border: 1px black solid;
+}
+.orenge{
+    color: orange;
+}
+.f-f-cursive{
+    font-family: cursive;
+}
+.orengered{
+    color: orangered;
+}
+.f-style-italic{
+    font-style: italic;
+}
+.darkorenge{
+    color: darkorange;
+}
+.f-s-normal{
+    font-style: normal;
+}
+.gold{
+    color: gold;
+}
+.f-s-bold{
+    font-size: bold;
+}
+.goldenrod{
+    color: goldenrod;
+}
+.a-i-center{
+    align-items: center;
+    border: 1px black solid;
+}
+.yellow{
+    color:yellow;
+}
+.a-i-baseline{
+    align-items: baseline;
+    border: 1px black solid;
+}
+.l-yellow{
+    color: rgb(239, 239, 190);
+}
+.grey{
+    color: grey;
+}
+.t-a-center{
+    text-align: center;
+    border: 1px black solid;
+}
+.l-grey{
+    color:lightgrey;
+}
+.t-a-left{
+    text-align: left;
+    border: 1px black solid;
+}
+.navy{
+    color: navy;
+}
+.t-a-right{
+    text-align: right;
+    border: 1px black solid;
+}
+.brown{
+    color: brown;
+}
+.t-a-end{
+    text-align: end;
+    border: 1px black solid;
+}
+.purple{
+    color: purple;
+}
+.t-a-justify{
+    text-align: justify;
+    border: 1px black solid;
+}
+.indigo{
+    color: indigo;
+}
+.display-flex{
+    display: flex;
+    border: 1px black solid;
+}
+.chocolate{
+    color: chocolate;
+}
+.d-inline{
+    display: inline;
+    border: 1px black solid;
+}
+.m-left{
+    margin-left: 2%;
+    border: 1px black solid;
+}
+.m-right{
+    margin-right: 2%;
+    border: 1px black solid;
+}
+.m-top{
+    margin-top: 2%;
+    border: 1px black solid;
+}
+.m-bottom{
+    margin-bottom: 2%;
+    border: 1px black solid;
+}
+.p-left{
+    padding-left: 2%;
+    border: 1px black solid;
+}
+.p-right{
+    padding-right: 2%;
+    border: 1px black solid;
+}
+.p-top{
+    padding-top: 2%;
+    border: 1px black solid;
+}
+.p-bottom{
+    padding-bottom: 2%;
+    border: 1px black solid;
+}
+.t-d-dotted{
+    text-decoration: dotted;
+    border: 1px black solid;
+}
+.t-d-dashed{
+    text-decoration: dashed;
+    border: 1px black solid;
+}
+.t-d-double{
+    text-decoration: double;
+    border: 1px black solid;
+}
+.t-d-none{
+    text-decoration: none;
+    border: 1px black solid;
+}
+.f-s-large{
+    font-size: large;
+}
+.f-s-larger{
+    font-size: larger;
+}
+.f-s-x-large{
+    font-size: x-large;
+}
+.f-s-xx-large{
+    font-size: xx-large;
+}
+.f-s-medium{
+    font-size: medium;
+}
+.f-s-small{
+    font-size: small;
+}
+.f-s-smaller{
+    font-size: smaller;
+}
+.f-s-x-small{
+    font-size: x-small;
+}
+.f-s-xx-small{
+    font-size: xx-small;
+}

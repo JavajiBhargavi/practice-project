@@ -1,0 +1,357 @@
+.back{
+    background-color: rgb(4, 101, 4);
+}
+.div{
+    display: flex;
+    width:100%
+}
+.div h4{
+    color: white;
+}
+.space{
+    width: 5%;
+    margin-left: 70%;
+}
+.div1{
+    display: flex;
+    width: 100%;
+}
+.div1 img{
+    width: 80%;
+    padding-left: 2%;
+}
+.login{
+    margin-right:5%;
+    width: 50%;
+    display: flex;
+}
+.logo{
+    padding-top: 15%;
+}
+.logo img{
+    width: 40px;
+}
+.h3{
+    margin-left: 5%;
+}
+.div2{
+    margin-top: 1%;
+    width: 100%;
+    margin-right: 40%;
+    display: flex;
+}
+.div2 img{
+    width: 20%;
+    margin-left: 380%;
+    margin-top: 10%;
+}
+.div2 button{
+    padding-top: 20%;
+    padding-bottom: 20%;
+    padding-right: 850%;
+    font-size: medium;
+    border-radius: 10px;
+    border-style: none;
+}
+.wish img{
+     width: 40%;
+     margin-top: 50%;
+}
+.cart img{
+    width: 45%;
+    margin-top: 10%;
+}
+.nav ul{
+    display: flex;
+}
+.nav li{
+    font-size: large;
+    padding-left: 5%;
+}
+.url{
+    background-image: url(https://www.parasexim.com/wp-content/uploads/2020/03/banner-2.jpg);
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 500px;
+    margin-left: 2%;
+}
+.colour h3{
+    padding-top: 26%;
+    padding-left: 43%;
+    color: white;
+    font-size: x-large;
+}
+.colour h4{
+    padding-left: 42%;
+    color: white;
+    font-size: medium;
+    margin-top: 1%;
+}
+/* .div3 img{
+    width: 20%;
+    border-radius: 10px;
+    margin-top: 3%;
+    margin-left: 3%;
+}
+.hr{
+   margin-left: 10%;
+   width: 80%;
+}
+.background{
+    background-color: rgb(231, 231, 231);
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+.price{
+    margin-top: 2%;
+    background-color: white;
+    margin-right: 76%;
+    border-radius: 10px;
+    margin-left: 3%;
+}
+.price h3{
+    padding-left: 10%;
+    padding-top: 8%;
+    font-size: medium;
+}
+.price form{
+    margin-left: 10%;
+    width: 80%;
+}
+.number{
+    width: 30%;
+    margin-left: 5%;
+    padding-top: 10%;
+    padding-bottom: 10%;
+    background-color: gainsboro;
+    padding-right: 10%;
+    border-radius: 5px;
+    border-style: none;
+}
+.price button{
+      padding-top: 10%;
+      padding-bottom: 10%;
+      padding-left: 6%;
+      padding-right: 6%;
+      width: 90%;
+      margin-left: 5%;
+      border-radius: 5px;
+      border-style: none;
+      margin-bottom: 10%;
+}
+.price img{
+    width: 10%;
+}
+.sort{
+    width: 70%;
+    padding-bottom: 5%;
+}
+.div4{
+    display: flex;
+    width: 100%;
+}
+.div4 img{
+    width: 10%;
+} */
+.background{
+    background-color: rgb(223, 223, 223);
+    padding-right: 5%;
+    padding-bottom: 5%;
+    padding-top: 2%;
+}
+.price{
+    display: flex;
+}
+.pic img{
+    width: 220%;
+    margin-left: 30%;
+    border-radius: 10px;
+}
+.sort{
+    margin-left: 20%;
+}
+.sort select{
+    padding-top: 1%;
+    padding-bottom: 1%;
+    padding-left: 1%;
+    background-color: lightgray;
+    border-radius: 5px;
+    border-style: none;
+}
+.plates{
+    display: flex;
+}
+.div4{
+    display: flex;
+    width:96%
+}
+.div4 div{
+    background-color: white;
+    padding-left: 3%;
+    padding-right: 5%;
+    margin-right: 2%;
+    margin-top: 2%;
+    padding-bottom: 3%;
+    border-radius: 10px;
+} 
+.div4 h3{
+     width: 150%;
+}
+.red{
+    color: red;
+    font-size: large;
+}
+.green{
+    color: green;
+    font-size: large;
+    margin-left: 5%;
+}
+.image{
+    width:100% ;
+    height: 200px;
+}
+.add img{
+    width: 20%;
+}
+.add{
+    width: 100%;
+    font-size: medium;
+    border-radius: 5px;
+    border-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.by{
+    display: flex;
+}
+
+.num input{
+    margin-left: 20%;
+}
+.number{
+    width: 50%;
+    padding-right: 10%;
+    padding-top: 10%;
+    padding-bottom: 10%;
+    background-color: lightgrey;
+    border-radius: 5px;
+    border-style: none;
+    text-align: center;
+    font-size: medium;
+}
+.filter{
+    background-color: white;
+    width: 220%;
+    padding-top: 2%;
+    padding-bottom: 25%;
+    margin-left: 30%;
+    margin-top: 20%;
+    border-radius: 10px;
+}
+.filter h4{
+    margin-left: 5%;
+    margin-top: 2%;
+}
+.filter img{
+    width: 10%;
+}
+.filter button{
+    margin-top: 5%;
+    width: 70%;
+    padding-right: 13%;
+    margin-left: 10%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    border-radius: 5px;
+    border-style: none;
+}
+
+.category{
+    background-color: white;
+    padding-top: 1%;
+    margin-top: 2%;
+    border-radius: 10px;
+    margin-bottom: 2%;
+    width: 21%;
+    margin-left: 3%;
+}
+.category h4{
+    margin-left: 15%;
+}
+.category li{
+    font-size: large;
+    padding-bottom:10% ;
+}
+.category button{
+    width: 50%;
+    margin-left: 25%;
+    margin-bottom: 10%;
+    font-size: large;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    border-radius: 5px;
+    border-style: none;
+}
+.category img{
+    width: 15%;
+}
+.s1{
+    padding-left: 20%;
+}
+.s2{
+    padding-left: 25%;
+}
+.s3{
+    padding-left: 48%;
+}
+.s4{
+    padding-left: 20%;
+}
+.s5{
+    padding-left: 20%;
+}
+.s6{
+    padding-left: 15%;
+}
+.div5{
+    display: flex;
+    width: 65%;
+    margin-left: 4%;
+}
+.div5 div{
+    background-color: white;
+    padding-left: 3%;
+    padding-right: 5%;
+    margin-top: 2%;
+    border-radius: 10px;
+    margin-left: 2%;
+    margin-bottom: 2%;
+}
+.div5 h3{
+    width:150%
+}
+.div6{
+    display: flex;
+    width: 67%;
+    margin-left: 28%;
+}
+.div6 div{
+    background-color: white;
+    padding-left: 3%;
+    padding-right: 5%;
+    padding-bottom: 3%;
+    margin-top: 2%;
+    border-radius: 10px;
+    margin-left: 2%;
+    margin-bottom: 2%;
+}
+.div6 h3{
+    width: 150%;
+}
+.hr{
+    margin-right: 10%;
+    margin-left: 10%;
+}
+
+

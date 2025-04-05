@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form>
+        <label onclick="name()">Name:</label>
+        <span id="n" style="color: violet;"></span><br>
+        <label onclick="phone()">Phone Number:</label>
+        <span id="p" style="color: violet;"></span><br>
+        <label onclick="email()">Email:</label>
+        <span id="e" style="color: violet;"></span><br>
+        <button onclick="button()" id="s" type="button">Submit</button>
+    </form><br>
+    <img onclick="pic()" id="img1" src="file:///C:/Users/key/Pictures/download%20(1).jpg"><br>
+    <img onclick="pic1()" src="file:///C:/Users/key/Pictures/download%20(3).jpg">
+    <img src="" id="img2">
+    <h4 onclick="rose()">Flower</h4>
+    <img src="" id="flower"><br>
+    <h2 id="flowername"></h2>
+    <div  style="display: flex;margin-top: 5%;">
+        <div>
+            <img id="img" src="file:///C:/Users/key/Pictures/download%20(5).jpg" width="300" height="400" style="border:5px solid rgb(4, 232, 38);border-radius: 10px;">
+            <h2 id="name" style="margin-left: 25%;"></h2>
+        </div>
+        <div style="margin-left: 20%;margin-top: 10%;">
+            <img  onclick="red()" id="g" src="file:///C:/Users/key/Pictures/download%20(5).jpg" width="100" height="200">
+            <img onclick="pink()" id="k" src="file:///C:/Users/key/Pictures/download%20(6).jpg" width="100" height="200">
+            <img onclick="orange()" id="r" src="file:///C:/Users/key/Pictures/download%20(7).jpg" width="100" height="200">
+            <img  onclick="yellow()" id="b" src="file:///C:/Users/key/Pictures/1.webp" width="100" height="200">
+        </div>
+    </div>
+    <script>
+        function name(){
+            document.getElementById('n').innerHTML='Bhargavi';
+        }
+        function phone() {
+            document.getElementById('p').innerHTML='7981990574';
+        }
+        function email(){
+            document.getElementById('e').innerHTML='bharu@123';
+        }
+        function button(){
+            document.getElementById('s').innerHTML='successfull';
+            document.getElementById('s').style.background='green';
+
+        }
+        function pic(){
+            document.getElementById('img1').src='file:///C:/Users/key/Pictures/download%20(2).jpg';
+            document.getElementById('img1').style.border='5px solid red';
+            // document.getElementById('img1').style.border-radius='10px';
+        }
+        function pic1(){
+            document.getElementById('img2').src='file:///C:/Users/key/Pictures/download%20(4).jpg';
+            document.getElementById('img2').style.active='5px solid green';
+        }
+        function rose(){
+            document.getElementById('flower').src='file:///C:/Users/key/Pictures/download%20(5).jpg';
+            document.getElementById('flower').style.border='5px solid deeppink';
+
+            document.getElementById('flowername').innerHTML='Rose Flower';
+            document.getElementById('flowername').style.color='orange';
+
+        }
+        function red(){
+            document.getElementById('img').src='file:///C:/Users/key/Pictures/download%20(5).jpg';
+            document.getElementById('g').style.border='5px solid green';
+            document.getElementById('b').style.border='5px solid red';
+            document.getElementById('r').style.border='5px solid red';
+            document.getElementById('k').style.border='5px solid red';
+            document.getElementById('name').innerHTML='Red Colour';
+            document.getElementById('name').style.color='Red';
+
+        }
+        function pink(){
+            document.getElementById('img').src='file:///C:/Users/key/Pictures/download%20(6).jpg';
+            document.getElementById('k').style.border='5px solid green';
+            document.getElementById('b').style.border='5px solid red';
+            document.getElementById('r').style.border='5px solid red';
+            document.getElementById('g').style.border='5px solid red';
+            document.getElementById('name').innerHTML='Pink Colour';
+            document.getElementById('name').style.color='deeppink';
+        }
+        function orange(){
+            document.getElementById('img').src='file:///C:/Users/key/Pictures/download%20(7).jpg';
+            document.getElementById('r').style.border='5px solid green';
+            document.getElementById('b').style.border='5px solid red';
+            document.getElementById('k').style.border='5px solid red';
+            document.getElementById('g').style.border='5px solid red';
+            document.getElementById('name').innerHTML='Orange Colour';
+            document.getElementById('name').style.color='Orange';
+        }
+        function yellow(){
+            document.getElementById('img').src='file:///C:/Users/key/Pictures/1.webp';
+            document.getElementById('b').style.border='5px solid green';
+            document.getElementById('r').style.border='5px solid red';
+            document.getElementById('k').style.border='5px solid red';
+            document.getElementById('g').style.border='5px solid red';
+            document.getElementById('name').innerHTML='Yellow  Colour';
+            document.getElementById('name').style.color='purple';
+        }
+    </script>
+</body>
+</html>

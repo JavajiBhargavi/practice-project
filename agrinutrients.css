@@ -1,0 +1,215 @@
+.colour{
+    background-color: rgb(0, 142, 0);
+}
+.flex{
+    display: flex;
+    width: 100%;
+}
+.div p{
+    color: white;
+    width: 600%;
+}
+.wish{
+    margin-left: 70%;
+    width: 30%;
+}
+.wish img{
+    padding-top: 55%;
+    width: 55%;
+    padding-left: 90%;
+}
+.icon img{
+    width: 25%;
+    padding-top: 25%;
+    padding-left: 60%;
+}
+.account{
+    margin-right: 5%;
+    width: 80%;
+}
+.account h3{
+    color: white;
+    padding-right: 5%;
+}
+.display{
+    display: flex;
+}
+.logo{
+    width: 30%;
+    margin-top: 2%;
+
+}
+.logo img{
+    width: 150%;
+    
+}
+.search{
+    margin-top: 10%;
+    margin-left: 150%;
+}
+.search button{
+    padding-right: 900%;
+    padding-top: 20%;
+    padding-bottom: 20%;
+    font-size: medium;
+}
+.src{
+    margin-left: 635%;
+    padding-top: 27%;
+}
+.src img{
+    width: 20px;
+}
+.cart{
+    margin-left: 70%;
+}
+.cart img{
+    width: 30%;
+}
+.div1 ul{
+    display: flex;
+    width: 150%;
+}
+.div1 li{
+    padding-left:5%;
+    font-size: large;
+    border-style: none;
+}
+.div1 input{
+    font-size: x-large;
+    border-style: none;
+}
+.cell{
+    margin-left: 35%;
+    font-size: larger;
+    border-style: dotted;
+    border-radius: 10px;
+    border-color: green;
+    background-color: rgb(0, 195, 185);
+    padding-left: 3%;
+    padding-right: 3%;
+    margin-top: 1%;
+    height: 60px;
+}
+.cell h5{
+    display: inline;
+    align-items: center;
+}
+.back{
+    background-color: rgb(229, 226, 226);
+    margin-top: 2%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+.div2{
+    margin-left:5%;
+    width: 50%;
+}
+.div3{
+    margin-left: 25%;
+}
+.billing{
+    width: 60%;
+}
+.form label{
+     margin-left: 5%;
+     padding-top: 10%;
+     font-size: large;
+}
+.form input{
+    margin-left: 5%;
+    padding-right: 50%;
+    margin-top: 1%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    font-size: large;
+}
+.first{
+    margin-left: 4%;
+}
+.first input{
+    padding-right: 15%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+.last{
+   margin-left: 9%;
+}
+.last input{
+    padding-right: 15%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+.select{
+    margin-left: 5%;
+    padding-right: 76%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    font-size: large;
+}
+.state{
+    padding-right: 62%;
+    margin-left: 5%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    font-size: large;
+}
+.shipping{
+    margin-right: 10%;
+}
+.form{
+    margin-top: 6%;
+}
+.form1 label{
+    font-size: large;
+    padding-top: 10%;
+
+}
+.form1 input{
+    padding-right: 70%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    font-size: large;
+    margin-top: 2%;
+}
+
+.first-name input{
+    padding-right: 10%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+.last-name{
+    margin-left: 10%;
+}
+.last-name input{
+    padding-right: 15%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+.country{
+    padding-right: 105%;
+    font-size: large;
+    padding-top: 5;
+    padding-bottom: 2%;
+}
+.value{
+    padding-right: 88%;
+    font-size: large;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+.submit{
+    margin-left: 90%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+.submit button{
+    padding-top: 5%;
+    padding-bottom: 5%;
+    padding-left: 5%;
+    padding-right: 5%;
+    font-size: large;
+    background-color: green;
+    border-style: none;
+    color: white;
+}

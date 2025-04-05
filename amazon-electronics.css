@@ -1,0 +1,305 @@
+.background{
+    background-color: gainsboro;
+}
+.colour{
+    background-color: black;
+    border-top-left-radius: 10px;
+}
+.div{
+    display: flex;
+}
+.logo img{
+    width: 150px;
+    margin-left: 10%;
+    margin-top: 5%;
+}
+.div1{
+    display: flex;
+    width:350% ;
+}
+.icon{
+    width: 20%;
+}
+.icon img{
+    width: 10px;
+    margin-left: 35px;
+    margin-top: 28px;
+}
+
+.deliver p{
+    color: white;
+    font-size: small;
+}
+.deliver b{
+    font-size: medium;
+}
+.div2{
+    display: flex;
+    margin-right: 60px;
+}
+.div2 p{
+    color: white;
+    margin-top: 20px;
+    border-style: ridge;
+    padding-top: 25%;
+    padding-bottom: 25%;
+    padding-right: 20%;
+    background-color: gainsboro;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+.div2 input{
+    margin-top: 20px;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    padding-right: 60%;
+    font-size: large;
+}
+.div2 img{
+    width: 20px;
+    margin-left: 115px;
+    margin-top: 15%;
+    border-style: ridge;
+    padding-top: 4%;
+    padding-bottom: 4%;
+    padding-left:3% ;
+    background-color: gainsboro;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+
+}
+.div3{
+    display: flex;
+    width: 100%;
+    margin-top: 1%;
+}
+.flag img{
+    width: 25px;
+    margin-top: 20px;
+}
+.en{
+    margin-top: 4%;
+    margin-right: 50%;
+}
+.en p{
+    color: white;
+}
+.sign p{
+    width: 150px;
+    color: white;
+    font-size: small;
+    margin-top: 20px;
+}
+.sign b{
+    font-size: medium;
+}
+.return p{
+    width: 100px;
+    color: white;
+    font-size: small;
+    margin-top: 20px;
+}
+.return b{
+    font-size: medium;
+}
+.div4{
+    display: flex;
+    margin-right: 3%;
+    margin-top: 1%;
+}
+.cart-logo{
+    margin-right: 5px;
+    margin-top: 10px;
+}
+.cart-logo img{
+    width: 25px;
+}
+.cart{
+    color: white;
+    font-size: medium;
+}
+.sign{
+    width: 90%;
+
+}
+.return{
+    width: 80%;
+}
+.links{
+    background-color: rgb(35, 35, 35);
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.nav ul{
+    display: flex;
+}
+.nav a{
+    text-decoration: none;
+    padding-left: 20px;
+    font-size: medium;
+    color: white;
+}
+.electronics ul{
+     display: flex;
+}
+.electronics li{
+    padding-left: 2%;
+}
+.margin{
+    margin-top: 5%;
+}
+.acwo{
+    display: flex;
+    border-style: ridge;
+}
+.pic{
+   width: 50%;
+   margin-left: 5%;
+   margin-top: 1%;
+}
+.pic img{
+    width: 25%;
+}
+.audio{
+    width: 50%;
+}
+.audio p{
+    text-align: center;
+    margin-top: 7%;
+}
+.price p{
+    font-size: large;
+    padding-left: 70%;
+    color: red;
+}
+.price b{
+    font-size: 25px;
+}
+.head{
+    width: 70%;
+    margin-top: 1%;
+}
+.head img{
+    width: 7%;
+    padding-left: 50%;
+}
+.earbuds{
+    display: flex;
+}
+.ear img{
+    border-style: ridge;
+}
+.headset{
+    width: 70%;
+}
+.headset img{
+    width: 70%;
+}
+.plus{
+    width: 60%;
+    margin-right: 10%;
+}
+.bank{
+    display: flex;
+}
+.bank div{
+    border-style: ridge;
+    margin-left: 2%;
+    width: 60%;
+    padding-left: 2%;
+    border-radius: 10px;
+   
+}
+.details{
+    border-style: ridge;
+    margin-right: 5%;
+    width: 30%;
+    padding-left: 1%;
+    padding-right: 3%;
+}
+.visit{
+    color:rgb(6, 205, 205);
+    font-size: large;
+}
+.visit b{
+     color: black;
+}
+.limit{
+    background-color: rgb(144, 30, 30);
+    color: white;
+    width: 35%;
+    padding-left: 2%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+.amount{
+    font-size: large;
+    color: red;
+}
+.amount b{
+     font-size: 25px;
+     color: black;
+}
+.extend{
+     color:rgb(6, 205, 205) ;
+}
+.update{
+    color:rgb(6, 205, 205) ;
+}
+.extend b{
+    color: red;
+    margin-left: 10%;
+}
+.select{
+    padding-left: 35%;
+    padding-right: 35%;
+    border-radius: 5px;
+    padding-top: 4%;
+    padding-bottom: 4%;
+    margin-top: 5%;
+    background-color: gainsboro;
+}
+.add{
+    border-radius: 20px;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    margin-top: 5%;
+    width: 110%;
+    background-color: orange;
+    border-style: none;
+}
+.buy{
+    border-radius: 20px;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    margin-top: 5%;
+    width: 110%;
+    background-color: orangered;
+    border-style: none;
+}
+.blue{
+    background-color:rgb(20, 16, 39);
+    padding-top: 1px;
+    padding-bottom: 1px;
+    margin-top: 5%;
+}
+.blue p{
+    color: white;
+  
+    text-align: center;
+}
+.navy{
+    background-color: rgb(13, 12, 23);
+    padding-top: 2%;
+    display: flex;
+}
+.navy ul{
+    color: white;
+}
+.navy div{
+    margin-left: 7%;
+}
+.navy li{
+    padding-top: 7%;
+    font-size: large;
+}

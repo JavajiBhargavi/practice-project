@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lan="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0%">
+    <title>form</title>
+    <link rel="stylesheet" href="C:\Users\key\Desktop\Bhargavi\medical-billing.css">
+</head>
+<style>
+    .flex{
+        display: flex;
+        margin-top: 5%;
+    }
+    .first img{
+        width: 150%;
+        height: 300px;
+    }
+    .first span{
+        font-size: larger;padding-left: 50%;
+    }
+    .images{
+        margin-left: 20%;
+
+    }
+    .images img{
+        width: 10%;
+    }
+</style>
+    <body>
+        <div class="flex">
+            <div class="first">
+                <img id="img" src="c:\Users\key\Pictures\ladies-4-diamond-8-nails-watch-vikings-girls-original-imaghu3zqygke6dk.webp">
+                <span id="colour"></span>
+            </div>
+            <div class="images">
+            <img onclick="silver()" src="c:\Users\key\Pictures\ladies-4-diamond-8-nails-watch-vikings-girls-original-imaghu3zqygke6dk.webp">
+            <img onclick="black()" src="c:\Users\key\Pictures\black-square-shape-simple-and-professional-women-selloria-girls-original-imagdjnuw6xrcy3a.webp">
+            <img onclick="red()" src="c:\Users\key\Pictures\premium-square-design-red-stone-studded-black-strap-women-ladies-original-imagsrkysjrd2qfh.webp">
+            </div>
+        </div>
+        <div class="flex">
+            <div class="first">
+                <img id="pic" src="c:\Users\key\Pictures\1-2266-slv-abrexo-boys-original-imahytcadt56esjw.webp">
+                <span id="name"></span>
+            </div>
+            <div class="images">
+            <img  onclick="silver()"  src="c:\Users\key\Pictures\1-2266-slv-abrexo-boys-original-imahytcadt56esjw.webp">
+            <img onclick="black()" src="c:\Users\key\Pictures\1-c-shock-black-digital-watch-for-boys-and-mens-digital-watch-original-imahf4gqjjqrjthu.webp">
+            <img onclick="red()" src="c:\Users\key\Pictures\1-c-shock-red-digital-watch-for-boys-and-mens-digital-watch-original-imah2hyq8pphbss7.webp">
+            </div>
+        </div>
+        <script>
+            function silver() {
+                document.getElementById('img').src='file:///C:/Users/key/Pictures/ladies-4-diamond-8-nails-watch-vikings-girls-original-imaghu3zqygke6dk.webp';
+                document.getElementById('pic').src='file:///C:/Users/key/Pictures/1-2266-slv-abrexo-boys-original-imahytcadt56esjw.webp';
+                document.getElementById('colour').innerHTML='Silver';
+                document.getElementById('name').innerHTML='Silver';
+                
+            }
+            function black() {
+                document.getElementById('img').src='file:///C:/Users/key/Pictures/black-square-shape-simple-and-professional-women-selloria-girls-original-imagdjnuw6xrcy3a.webp';
+                document.getElementById('pic').src='file:///C:/Users/key/Pictures/1-c-shock-black-digital-watch-for-boys-and-mens-digital-watch-original-imahf4gqjjqrjthu.webp';
+                document.getElementById('colour').innerHTML='Black';
+                document.getElementById('name').innerHTML='Black';
+            }
+            function red() {
+                document.getElementById('img').src='file:///C:/Users/key/Pictures/premium-square-design-red-stone-studded-black-strap-women-ladies-original-imagsrkysjrd2qfh.webp';
+                document.getElementById('pic').src='file:///C:/Users/key/Pictures/1-c-shock-red-digital-watch-for-boys-and-mens-digital-watch-original-imah2hyq8pphbss7.webp';
+                document.getElementById('colour').innerHTML='Red';
+                document.getElementById('name').innerHTML='Red';
+            }
+        </script>
+    </body>
+</html>

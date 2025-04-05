@@ -1,0 +1,64 @@
+.background{
+    background-color: black;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+.flex{
+    display: flex;
+}
+.mini img{
+    width: 100%;
+    margin-left: 70px;
+    margin-top: 30%;
+}
+.mx img{
+    width: 60%;
+    margin-left: 70px;
+    margin-top: 5%;
+}
+.div ul{
+    display: flex;
+}
+.div li{
+    color: white;
+    font-size: large;
+    width: 100px;
+}
+.div1 img{
+    width: 100%;
+    height: 300px;
+}
+.top h2{
+   color: white;
+   margin-left: 5%;
+}
+.div2{
+    display: flex;
+    margin-left: 1%;
+}
+.div2 div{
+    margin-right: 1%;
+}
+.div2 img{
+    width: 100%;
+    height: 200px;
+}
+.colour{
+    background-color: rgb(21, 21, 21);
+    display: flex;
+    margin-top: 5%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+.colour div{
+    margin-left: 5%;
+}
+
+.colour li{
+    color: white;
+    font-size: medium;
+    padding-top: 3%;
+}
+.colour b{
+    font-size: large;
+}

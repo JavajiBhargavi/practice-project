@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lan="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width,initial-scale=1.0%">
+        <title>flipkart task js</title>
+    </head>
+    <style>
+        .flex{
+            display: flex;
+        }
+        .bag img{
+            width: 250%;
+        }
+        .bags{
+            margin-left: 20%;
+        }
+        .bags img{
+            width: 15%;
+            height: 100px;
+        }
+        .bags p{
+            font-size: larger;
+        }
+        .bags h3{
+            color: gainsboro;
+        }
+        .bags h4{
+            font-size: 40px;
+        }
+        .bags b{
+            color: green;
+        }
+        .para{
+            color: green;
+        }
+    </style>
+    <body>
+        <div class="flex">
+            <div class="bag">
+                <img id="img" src="c:\Users\key\Pictures\-original-imah4c99qfj2yazh.webp">
+            </div>
+            <div class="bags">
+                <h3>SAFARI</h3>
+                <p id="p"></p>
+                <p id="s" class="para"></p>
+                <h4 id="h"></h4>
+                <!-- <p>SAFARI<br>large 35 L Laptop Backpack Ashper Pro (Black)<br><b>Special price</p>
+                <h2>459.00rs</h2> -->
+                <img onclick="Black()" src="c:\Users\key\Pictures\-original-imah4c99qfj2yazh.webp">
+                <img onclick="Blue()" src="c:\Users\key\Pictures\-original-imah5wr2q9hxr2vc.webp">
+                <img onclick="Maroon()" src="c:\Users\key\Pictures\-original-imagy5w8hwczubyu.webp">
+                <img onclick="NavyBlue()" src="c:\Users\key\Pictures\-original-imah3hynzfqfrecx.webp">
+                <img onclick="Green()" src="c:\Users\key\Pictures\-original-imagy5w9ez58vc6e.webp"> 
+                <img onclick="Teal()" src="c:\Users\key\Pictures\-original-imagz6zvymamsj7z.webp">  
+            </div>
+        </div>
+        <script>
+            function Black() {
+                document.getElementById('p').innerHTML='Medium 30 L Laptop Backpack ASHPER CB With 6 Pockets(Black)<br>Special Price';
+                document.getElementById('s').innerHTML='Special price';
+                document.getElementById('h').innerHTML='459.00';
+                document.getElementById('img').src='file:///C:/Users/key/Pictures/-original-imah4c99qfj2yazh.webp';
+            }
+            function Blue() {
+                document.getElementById('p').innerHTML='Large 35 L Laptop Backpack Ashper Pro(Blue)<br>Special Price';
+                document.getElementById('h').innerHTML='599.00';
+                document.getElementById('img').src='file:///C:/Users/key/Pictures/-original-imah5wr2q9hxr2vc.webp';
+            } 
+            function Maroon() {
+                document.getElementById('p').innerHTML='Medium 30 L Laptop Backpack ASHPER CB With 6 Pockets(Maroon)<br>Special Price';
+                document.getElementById('h').innerHTML='2,999.00';
+                document.getElementById('img').src='file:///C:/Users/key/Pictures/-original-imagy5w8hwczubyu.webp';
+            }
+            function NavyBlue() {
+                document.getElementById('p').innerHTML='Medium 30 L Laptop Backpack ASHPER (Multicolor)<br>Special Price';
+                document.getElementById('h').innerHTML='489.00';
+                document.getElementById('img').src='file:///C:/Users/key/Pictures/-original-imah3hynzfqfrecx.webp';
+            }
+            function Green(){
+                document.getElementById('p').innerHTML='Medium 30 L Laptop Backpack ASHPER CB With 6 Pockets (Green)<br>Special Price';
+                document.getElementById('h').innerHTML='459.00';
+                document.getElementById('img').src='file:///C:/Users/key/Pictures/-original-imagy5w9ez58vc6e.webp';
+            }
+            function Teal() {
+                document.getElementById('p').innerHTML='Medium 30 L Laptop Backpack ASHPER CB With 6 Pockets (Blue)<br>Special Price';
+                document.getElementById('h').innerHTML='469.00';
+                document.getElementById('img').src='file:///C:/Users/key/Pictures/-original-imagz6zvymamsj7z.webp';
+            }
+        </script>
+    </body>   
+</html>        

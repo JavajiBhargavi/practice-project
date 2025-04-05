@@ -1,0 +1,242 @@
+.colour-grey{
+    background-color: rgb(230, 230, 230);
+}
+.colour{
+    background-color: black;
+    border-top-left-radius: 10px;
+}
+.div{
+    display: flex;
+}
+.logo img{
+    width: 150px;
+    margin-left: 10%;
+    margin-top: 5%;
+}
+.div1{
+    display: flex;
+    width:350% ;
+}
+.icon{
+    width: 20%;
+}
+.icon img{
+    width: 10px;
+    margin-left: 35px;
+    margin-top: 28px;
+}
+
+.deliver p{
+    color: white;
+    font-size: small;
+}
+.deliver b{
+    font-size: medium;
+}
+.div2{
+    display: flex;
+    margin-right: 60px;
+}
+.div2 p{
+    color: white;
+    margin-top: 20px;
+    border-style: ridge;
+    padding-top: 25%;
+    padding-bottom: 25%;
+    padding-right: 20%;
+    background-color: gainsboro;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+.div2 input{
+    margin-top: 20px;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    padding-right: 60%;
+    font-size: large;
+}
+.div2 img{
+    width: 20px;
+    margin-left: 115px;
+    margin-top: 15%;
+    border-style: ridge;
+    padding-top: 4%;
+    padding-bottom: 4%;
+    padding-left:3% ;
+    background-color: gainsboro;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+
+}
+.div3{
+    display: flex;
+    width: 100%;
+    margin-top: 1%;
+}
+.flag img{
+    width: 25px;
+    margin-top: 20px;
+}
+.en{
+    margin-top: 4%;
+    margin-right: 50%;
+}
+.en p{
+    color: white;
+}
+.sign p{
+    width: 150px;
+    color: white;
+    font-size: small;
+    margin-top: 20px;
+}
+.sign b{
+    font-size: medium;
+}
+.return p{
+    width: 100px;
+    color: white;
+    font-size: small;
+    margin-top: 20px;
+}
+.return b{
+    font-size: medium;
+}
+.div4{
+    display: flex;
+    margin-right: 3%;
+    margin-top: 1%;
+}
+.cart-logo{
+    margin-right: 5px;
+    margin-top: 10px;
+}
+.cart-logo img{
+    width: 25px;
+}
+.cart{
+    color: white;
+    font-size: medium;
+}
+.sign{
+    width: 90%;
+
+}
+.return{
+    width: 80%;
+}
+.links{
+    background-color: rgb(35, 35, 35);
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.nav ul{
+    display: flex;
+}
+.nav a{
+    text-decoration: none;
+    padding-left: 20px;
+    font-size: medium;
+    color: white;
+}
+.sell-div img{
+    width: 100%;
+    height: 500px;
+    margin-top: 1%;
+}
+.sell-div1{
+    background-color: white;
+    margin-top: 2%;
+    margin-left: 2%;
+    margin-right: 2%;
+    border-style: ridge;
+    border-color: aqua;
+    border-radius: 10px;
+}
+.sell-div1 h1{
+     font-size: 40px;
+     text-align: center;
+     margin-bottom: 5%;
+}
+.sell-div2{
+    display: flex;
+    margin-left: 5%;
+    margin-bottom: 5%;
+}
+.sell-div2 img{
+    width: 70%;
+}
+.sell-flex{
+    display: flex;
+    width: 200%;
+}
+.sell-display{
+    display: flex;
+    width: 300%;
+}
+.sell-display img{
+    width: 45%;
+    margin-left: 37%;
+}
+.order{
+    margin-right: 15%;
+}
+.step{
+    margin-left: 10%;
+}
+.list img{
+    width: 90%;
+}
+.why{
+    text-align: center;
+    font-size: 50px;
+}
+.crore{
+    display: flex;
+}
+.crore div{
+    background-color: white;
+    margin-left: 5%;
+    margin-right: 5%;
+    width: 40%;
+    height: 200px;
+    border-radius: 10px;
+}
+.crore h2{
+    margin-left: 9%;
+    margin-top: 10%;
+    font-size: 30px;
+    border-bottom: 2px solid skyblue;
+    margin-right: 2%;
+}
+.crore p{
+    font-size: 20px;
+    margin-left: 10%;
+    margin-top: 10%;
+}
+.blue{
+    background-color:rgb(20, 16, 39);
+    padding-top: 1px;
+    padding-bottom: 1px;
+    margin-top: 5%;
+}
+.blue p{
+    color: white;
+  
+    text-align: center;
+}
+.navy{
+    background-color: rgb(13, 12, 23);
+    padding-top: 2%;
+    display: flex;
+}
+.navy ul{
+    color: white;
+}
+.navy div{
+    margin-left: 7%;
+}
+.navy li{
+    padding-top: 7%;
+    font-size: large;
+}

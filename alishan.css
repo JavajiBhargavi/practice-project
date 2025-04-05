@@ -1,0 +1,61 @@
+.div{
+    border-style: solid;
+    margin-right: 18%;
+    margin-left: 18%;
+    margin-top: 15%;
+    height: 365px;
+    border-radius: 10px;
+    background-color: white;
+    border-left: 7px solid  blue;
+    border-right:7px solid blue;
+    border-top:7px solid red;
+    border-bottom: 7px solid red;
+}
+.alishan{
+    width: 55%;
+    padding-left: 22%;
+    margin-top: 3%;
+}
+.mark{
+    width: 18%;
+    margin-top: 3%;
+    padding-left: 41%;
+}
+.thanks{
+    color: rgb(3, 158, 3);
+    text-align: center;
+}
+.no{
+    text-align: center;
+}
+.over{
+    text-align: center;
+}
+.link{
+    color: blue;
+    text-align: center;
+}
+.by{
+    text-align: center;
+}
+.bo{
+    color: blue;
+}
+.sure{
+    color: red;
+}
+.subject{
+    text-align: center;
+}
+.subject b{
+    color: blue;
+    font-size: medium;
+}
+.back{
+    background-color: rgb(249, 249, 249);
+    margin-left: 30%;
+    margin-right: 30%;
+    border-radius: 20px;
+    height: 550px;
+    padding-top: 5%;
+}
